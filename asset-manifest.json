@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/StoryBook_Intro/static/css/main.2d3b1006.chunk.css",
+    "main.js": "/StoryBook_Intro/static/js/main.adefd07f.chunk.js",
+    "main.js.map": "/StoryBook_Intro/static/js/main.adefd07f.chunk.js.map",
+    "runtime-main.js": "/StoryBook_Intro/static/js/runtime-main.8d68c21f.js",
+    "runtime-main.js.map": "/StoryBook_Intro/static/js/runtime-main.8d68c21f.js.map",
+    "static/js/2.f033fcc2.chunk.js": "/StoryBook_Intro/static/js/2.f033fcc2.chunk.js",
+    "static/js/2.f033fcc2.chunk.js.map": "/StoryBook_Intro/static/js/2.f033fcc2.chunk.js.map",
+    "index.html": "/StoryBook_Intro/index.html",
+    "precache-manifest.45e4289be09058fbef48b6cb9c7df592.js": "/StoryBook_Intro/precache-manifest.45e4289be09058fbef48b6cb9c7df592.js",
+    "service-worker.js": "/StoryBook_Intro/service-worker.js",
+    "static/css/main.2d3b1006.chunk.css.map": "/StoryBook_Intro/static/css/main.2d3b1006.chunk.css.map",
+    "static/js/2.f033fcc2.chunk.js.LICENSE.txt": "/StoryBook_Intro/static/js/2.f033fcc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d68c21f.js",
+    "static/js/2.f033fcc2.chunk.js",
+    "static/css/main.2d3b1006.chunk.css",
+    "static/js/main.adefd07f.chunk.js"
+  ]
+}
